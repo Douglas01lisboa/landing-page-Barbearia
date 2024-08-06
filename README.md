@@ -1,4 +1,4 @@
-Landing Page
+
 Este repositório contém o código-fonte de uma landing page simples, desenvolvida utilizando HTML, CSS e JavaScript. Esta página foi projetada para ser responsiva e atraente, com o objetivo de converter visitantes em leads ou clientes.
 
 Funcionalidades
