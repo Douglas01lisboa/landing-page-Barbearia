@@ -20,5 +20,5 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou encon
 Contato
 Para mais informações, entre em contato:
 
-Email: seu-lisboadouglas01@gmail.com
+Email: lisboadouglas01@gmail.com
 LinkedIn: Douglas Lisboa
